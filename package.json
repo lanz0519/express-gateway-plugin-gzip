@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+      "/Users/mac04/Desktop/work/summerEndGateway"
+    ]
+  ],
+  "_from": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+  "_id": "express-gateway-plugin-gzip@git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git#4a2f60df1c219ba49a250751a985ef1b08ada581",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/express-gateway-plugin-gzip",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+    "rawSpec": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+    "saveSpec": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+    "fetchSpec": "http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git#4a2f60df1c219ba49a250751a985ef1b08ada581",
+  "_spec": "git+http://git.oa.kanshan.in/lanz/express-gateway-plugin-gzip.git",
+  "_where": "/Users/mac04/Desktop/work/summerEndGateway",
+  "author": "",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "manifest.js",
+  "name": "express-gateway-plugin-gzip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "compressible": "^2.0.18"
+  }
+}
